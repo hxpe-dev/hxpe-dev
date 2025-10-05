@@ -1,5 +1,9 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/hxpe-dev">Hxpe</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
+###### Current project
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hxpe-dev&repo=kotofetch&theme=nightowl)](https://github.com/hxpe-dev/kotofetch)
+
+###### Trophies
 <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
