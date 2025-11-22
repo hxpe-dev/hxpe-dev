@@ -2,7 +2,7 @@
 
 ###### Current projects
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hxpe-dev&repo=kotofetch&theme=nightowl)](https://github.com/hxpe-dev/kotofetch)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hxpe-dev&repo=meowllow&theme=nightowl)](https://github.com/hxpe-dev/meowllow)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=meowllow&repo=meowllow&theme=nightowl)](https://github.com/meowllow/meowllow)
 
 ###### Trophies
 <!-- Profile Trophies -->
