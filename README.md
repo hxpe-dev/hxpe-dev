@@ -2,7 +2,7 @@
 
 ###### Current projects
 [![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=hxpe-dev&repo=kotofetch&theme=nightowl)](https://github.com/hxpe-dev/kotofetch)
-[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=meowllow&repo=meowllow&theme=nightowl)](https://github.com/meowllow/meowllow)
+<!-- [![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=meowllow&repo=meowllow&theme=nightowl)](https://github.com/meowllow/meowllow) -->
 
 ###### Trophies
 <!-- Profile Trophies -->
@@ -31,6 +31,7 @@
 
 ###### Deployment & Cloud Services:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 
 ###### Database Management:
 ![MariaDB](https://img.shields.io/badge/MariaDB-316192?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
