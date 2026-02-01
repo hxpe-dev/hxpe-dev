@@ -1,14 +1,15 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/hxpe-dev">Hxpe</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 ###### Current projects
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hxpe-dev&repo=kotofetch&theme=nightowl)](https://github.com/hxpe-dev/kotofetch)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=meowllow&repo=meowllow&theme=nightowl)](https://github.com/meowllow/meowllow)
+[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=hxpe-dev&repo=kotofetch&theme=nightowl)](https://github.com/hxpe-dev/kotofetch)
+[![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=meowllow&repo=meowllow&theme=nightowl)](https://github.com/meowllow/meowllow)
 
 ###### Trophies
 <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=hxpe-dev&theme=dracula&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="100%" />
+        <img src="https://github-profile-trophy-kannan.vercel.app/?username=hxpe-dev&theme=dracula&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="100%" />
+        <!-- <img src="https://github-profile-trophy.vercel.app/?username=hxpe-dev&theme=dracula&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="100%" /> -->
     </a>
 </div>    
 
@@ -17,6 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/rust-%2300599C.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![C & C++](https://img.shields.io/badge/C%20&%20C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -51,7 +53,7 @@
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hxpe-dev&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=hxpe-dev&theme=nightowl&show_icons=true&count_private=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=hxpe-dev&theme=nightowl" alt="Hxpe streak" />
 </td>
 <td width="50%" align="center">
