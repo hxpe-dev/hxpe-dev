@@ -33,6 +33,7 @@
 ###### Deployment & Cloud Services:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 
 ###### Database Management:
 ![MariaDB](https://img.shields.io/badge/MariaDB-316192?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
