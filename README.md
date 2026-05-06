@@ -9,7 +9,7 @@
 <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy-kannan.vercel.app/?username=hxpe-dev&theme=dracula&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="100%" />
+        <img src="https://github-profile-trophy-fork-two.vercel.app/?username=hxpe-dev&theme=dracula&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="100%" />
         <!-- <img src="https://github-profile-trophy.vercel.app/?username=hxpe-dev&theme=dracula&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="100%" /> -->
     </a>
 </div>    
